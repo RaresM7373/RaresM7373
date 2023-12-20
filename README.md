@@ -1,11 +1,26 @@
+## Hi, I'm Rares! 👋
+
+🚀 Senior Full Stack JavaScript Developer 
+
+🌟 Crafting sophisticated full-stack web & mobile software solutions using the power of JavaScript and cutting-edge cloud technologies.
+
+💻 Over 4 years of experience developing robust web applications.
+🌍 Based in Romania 🇷🇴 and passionate about contributing to impactful projects.
+
+🔭 Always exploring new technologies and methodologies to deliver high-quality, innovative solutions.
+
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/rares-modure-778b16170/)
+
+Let's turn ideas into reality together! 🚀
+<br/><br/>
+
+
 #### Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&style=for-the-badge&logo=TypeScript)
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-000?&style=for-the-badge&logo=Shell)
-
-
 
 
 #### Web Development
