@@ -68,3 +68,6 @@ Let's turn ideas into reality together! 🚀
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&style=for-the-badge&logo=Firebase)
 ![Vercel](https://img.shields.io/badge/-Netlify-000?&style=for-the-badge&logo=Vercel)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&style=for-the-badge&logo=Heroku)
+
+
+![](https://green-wall.leoku.dev/api/og/share/[RaresM7373])
