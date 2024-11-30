@@ -11,7 +11,6 @@
 
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/rares-modure-778b16170/)
 
-Let's turn ideas into reality together! 🚀
 <br/><br/>
 
 
