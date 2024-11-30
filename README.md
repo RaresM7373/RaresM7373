@@ -14,7 +14,7 @@
 <br/><br/>
 
 
-#### Programming Languages
+#### Core Tech Stack 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&style=for-the-badge&logo=TypeScript)
