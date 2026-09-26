@@ -4,7 +4,7 @@
 
 🌟 Crafting sophisticated full-stack web & mobile software solutions using the power of JavaScript and cutting-edge cloud technologies.
 
-💻 Over 5 years of experience developing robust web & mobile applications.
+💻 Over 7 years of experience developing robust web & mobile applications.
 🌍 Based in Romania 🇷🇴 and passionate about contributing to impactful projects.
 
 🔭 Always exploring new technologies and methodologies to deliver high-quality, innovative solutions.
